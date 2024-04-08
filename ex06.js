@@ -131,7 +131,3 @@ const watchList = [
 
 
 
-/*   const ratings = watchList.map(movie => ({
-    title: movie.Title,
-    rating: movie.imdbRating
-  })); */
